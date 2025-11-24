@@ -1,1 +1,1 @@
-# How-looks-working-configuration-for-JPA-with-Testcontainers
+# How looks working configuration for JPA with Testcontainers
